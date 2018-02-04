@@ -1,0 +1,10 @@
+Q:\C#\EvilMod Tools\LtxConvertor\bin\Debug\LtxConvertor.exe.config
+Q:\C#\EvilMod Tools\LtxConvertor\bin\Debug\LtxConvertor.exe
+Q:\C#\EvilMod Tools\LtxConvertor\bin\Debug\LtxConvertor.pdb
+Q:\C#\EvilMod Tools\LtxConvertor\obj\Debug\LtxConvertor.csprojResolveAssemblyReference.cache
+Q:\C#\EvilMod Tools\LtxConvertor\obj\Debug\LtxConvertor.Menu.resources
+Q:\C#\EvilMod Tools\LtxConvertor\obj\Debug\LtxConvertor.Properties.Resources.resources
+Q:\C#\EvilMod Tools\LtxConvertor\obj\Debug\LtxConvertor.csproj.GenerateResource.Cache
+Q:\C#\EvilMod Tools\LtxConvertor\obj\Debug\LtxConvertor.csproj.CoreCompileInputs.cache
+Q:\C#\EvilMod Tools\LtxConvertor\obj\Debug\LtxConvertor.exe
+Q:\C#\EvilMod Tools\LtxConvertor\obj\Debug\LtxConvertor.pdb
